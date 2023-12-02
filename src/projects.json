@@ -1,16 +1,14 @@
-
-
 [
     {
         "title": "ToDo List App",
-        "img": "./assets/Project4.jpg",
+        "img": "../assets/portfolio.png",
         "description": "Todo list application",
         "technologies": "Html | CSS | Javascript | React Js",
         "link": "https://github.com/",
         "github": "https://github.com/"
     },
     {
-        "title": "Online T-shirt shop",
+        "title": "T-shirt shop",
         "img": "",
         "description": "An Online T-shirt Shop Website.",
         "technologies": "Python | Djngo | Bootstrap",

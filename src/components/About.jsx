@@ -8,7 +8,7 @@ import img from '../assets/photo.png'
 
 const About = () => {
     return (
-        <section id="home">
+        <section id="about">
             {/* <h5>Get to know</h5> */}
             <h2>About Me</h2>
             <div className="container about__container">
